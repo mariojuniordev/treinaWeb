@@ -3,7 +3,7 @@
 
 int main()
 {
-    int x, qtdDivisores;
+    int x, qtdDivisores = 0;
     printf("Digite um número: ");
     scanf("%d", x);
 
