@@ -4,7 +4,6 @@
 int main()
 {
     int x;
-    int i;
 
     printf("Digite um número: ");
     scanf("%d", x);
